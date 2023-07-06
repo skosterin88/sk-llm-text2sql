@@ -2,11 +2,11 @@ connections:
   clickhouse: 
     host: 'pjhlc09pbp.us-east-1.aws.clickhouse.cloud'
     username: 'default'
-    password: '995ubDA~PHRHp'
+    password: ''
     port: 8443
 models:
   openai:
-    api_key: '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'
+    api_key: ''
     params:
         temperature: 0
         model: 'text-davinci-003'
